@@ -10,7 +10,7 @@ This is a collection of recipes i like, compiled from various sources, with my o
 * [Instant Pot Lamb Shank](lambshank.md)
 
 ## Savoury Mains
-- Seekh Kebabs
+- [Seekh Kebabs](seekhkebab.md)
 - Mangalorean Chicken Curry (with coconut)
 - Grilled Sesame Lime Chicken Breasts
 - Chicken Paprikash
