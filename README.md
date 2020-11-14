@@ -12,7 +12,7 @@ This is a collection of recipes i like, compiled from various sources, with my o
 ## Savoury Mains
 - [Seekh Kebabs](seekhkebab.md)
 - [Mangalorean Chicken Curry (with coconut)](mangloreanchicken.md)
-- Grilled Sesame Lime Chicken Breasts
+- [Grilled Sesame Lime Chicken Breasts](sesamelimechicken.md)
 - Chicken Paprikash
 - Garlic Butter Pork Tenderloin
 - Easy Puff Pastry Bacon and Cheese Quiche
