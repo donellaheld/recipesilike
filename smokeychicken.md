@@ -1,6 +1,6 @@
 ## Instant Pot Smoky Chicken Tacos
 
-https://cooking.nytimes.com/recipes/1020043-pressure-cooker-chipotle-honey-chicken-tacos
+<https://cooking.nytimes.com/recipes/1020043-pressure-cooker-chipotle-honey-chicken-tacos>
 
 ### Ingredients
 - 1 ½  pounds boneless, skinless chicken thighs
