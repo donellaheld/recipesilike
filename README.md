@@ -9,3 +9,15 @@ This is a collection of recipes i like, compiled from various sources, with my o
 * [Instant Pot Smoky Chicken Tacos](smokeychicken.md)
 * [Instant Pot Lamb Shank](lambshank.md)
 
+## Savoury Mains
+- Seekh Kebabs
+- Mangalorean Chicken Curry (with coconut)
+- Grilled Sesame Lime Chicken Breasts
+- Chicken Paprikash
+- Garlic Butter Pork Tenderloin
+- Easy Puff Pastry Bacon and Cheese Quiche
+- Crisp Gnocchi With Brussels Sprouts and Brown Butter
+- Pasta with Creamy Pumpkin Sauce
+- Carnitas
+
+
