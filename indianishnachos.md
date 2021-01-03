@@ -3,14 +3,14 @@
 
 ### INGREDIENTS
 
-### FOR THE CILANTRO CHUTNEY:
+#### FOR THE CILANTRO CHUTNEY:
 - 1 large bunch fresh cilantro, leaves and tender stems roughly chopped (about 4 cups)
 - 1 small Indian green chile or serrano chile, stem removed and roughly chopped
 - 2 tablespoons fresh lime juice (from about 1 lime), plus more as needed
 - ¼ teaspoon granulated sugar
 - ¾ teaspoon kosher salt, plus more as needed
 
-### FOR THE NACHOS:
+#### FOR THE NACHOS:
 - 1 (15-ounce) can black beans, rinsed and drained
  Kosher salt
 - 1 (8-ounce) bag white corn tortilla chips, preferably unsalted
@@ -19,11 +19,13 @@
 - 4 cups shredded sharp Cheddar cheese (about 1 pound)
 - ¼ cup store-bought tamarind sauce (or 1/4 cup date syrup or maple syrup whisked with 1 tablespoon lime juice)
 
-### FOR THE CHHONK: 
+#### FOR THE CHHONK: 
 - ¼ cup ghee or olive oil
 - 2 tablespoons cumin seeds
 - Pinch of red chile powder, such as ground cayenne
 - Greek yogurt, for serving (optional)
+
+*I skipped the chonk*
 
 ### PREPARATION
 
