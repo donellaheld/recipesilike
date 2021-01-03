@@ -14,10 +14,10 @@ This is a collection of recipes i like, compiled from various sources, with my o
 - [Mangalorean Chicken Curry (with coconut)](mangloreanchicken.md)
 - [Grilled Sesame Lime Chicken Breasts](sesamelimechicken.md)
 - [Chicken Paprikash](chickenpaprikash.md)
-- Garlic Butter Pork Tenderloin
-- Easy Puff Pastry Bacon and Cheese Quiche
-- Crisp Gnocchi With Brussels Sprouts and Brown Butter
-- Pasta with Creamy Pumpkin Sauce
-- Carnitas
+- [Garlic Butter Pork Tenderloin](porktenderloin.md)
+- [Easy Puff Pastry Bacon and Cheese Quiche](puffpastryquiche.md)
+- [Crisp Gnocchi With Brussels Sprouts and Brown Butter](gnocciwithbrusselsprouts.md)
+- [Pasta with Creamy Pumpkin Sauce](pumpkinsaucepasta.md)
+- [Carnitas](carnitas.md)
 
 
