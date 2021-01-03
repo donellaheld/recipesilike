@@ -20,4 +20,10 @@ This is a collection of recipes i like, compiled from various sources, with my o
 - [Pasta with Creamy Pumpkin Sauce](pumpkinsaucepasta.md)
 - [Carnitas](carnitas.md)
 
+## Sides
+- [Chapatis](chapatis.md)
+- [Tortillas](tortillas.md)
+- [Cheddar Biscuits](cheddarbiscuits.md)
+- [Indianish Nachos](indianishnachos.md)
+
 
