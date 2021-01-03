@@ -19,6 +19,7 @@ This is a collection of recipes i like, compiled from various sources, with my o
 - [Crisp Gnocchi With Brussels Sprouts and Brown Butter](gnocciwithbrusselsprouts.md)
 - [Pasta with Creamy Pumpkin Sauce](pumpkinsaucepasta.md)
 - [Carnitas](carnitas.md)
+- [Beer Braised Chicken](beerbraisedchicken.md)
 
 ## Sides
 - [Chapatis](chapatis.md)
