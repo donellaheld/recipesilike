@@ -1,4 +1,5 @@
 ## Buttermilk Pancakes
+*From James*
 
 ### INGREDIENTS
 - 7 ounces all purpose flour
