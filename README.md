@@ -42,7 +42,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 
 ## Muffins
 - [Banana Chocolate Muffins](bananachocolatemuffins.md)
-- [Pumpkin Muffins[(pumpkinmuffins.md)
+- [Pumpkin Muffins](pumpkinmuffins.md)
 - [Cinnamon Apple Muffins](cinnamonapplemuffins.md)
 
 
