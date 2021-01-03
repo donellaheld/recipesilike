@@ -13,7 +13,7 @@ This is a collection of recipes i like, compiled from various sources, with my o
 - [Seekh Kebabs](seekhkebab.md)
 - [Mangalorean Chicken Curry (with coconut)](mangloreanchicken.md)
 - [Grilled Sesame Lime Chicken Breasts](sesamelimechicken.md)
-- Chicken Paprikash
+- [Chicken Paprikash](chickenpaprikash.md)
 - Garlic Butter Pork Tenderloin
 - Easy Puff Pastry Bacon and Cheese Quiche
 - Crisp Gnocchi With Brussels Sprouts and Brown Butter
