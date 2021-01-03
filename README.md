@@ -35,6 +35,8 @@ This is a collection of recipes i like, compiled from various sources, with my o
 ## Breakfast
 - [Granola](granola.md)
 - [Buttermilk Pancakes](buttermilkpancakes.md)
+- [Cottage Cheese Pancakes](cottagecheesepancakes.md)
+- [Belgian Waffes](belgianwaffles.md)
 - [
 
 
