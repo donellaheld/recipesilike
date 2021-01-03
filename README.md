@@ -45,4 +45,16 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Pumpkin Muffins](pumpkinmuffins.md)
 - [Cinnamon Apple Muffins](cinnamonapplemuffins.md)
 
+## Desserts
+- [Bread Pudding](breadpudding.md)
+- [Hot Cross Buns](hotcrossbuns.md)
+- [Chocolate Toffee Matzo Crunch](matzocrunch.md)
+
+### Cake/Cupcakes 
+- [Chocolate Cake/Cupcakes](chocolatecupcakes.md)
+
+### Frostings
+- [Chocolate Buttercream](chocolatebuttercream.md)
+
+
 
