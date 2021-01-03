@@ -1,6 +1,6 @@
 # Recipes I Like
 
-This is a collection of recipes i like, compiled from various sources, with my alterations. 
+This is a collection of recipes I like, compiled from various sources, with my alterations. 
 
 ## Instant Pot Recipes
 * [Instant Pot Biryani](biryani.md)
@@ -37,6 +37,12 @@ This is a collection of recipes i like, compiled from various sources, with my a
 - [Buttermilk Pancakes](buttermilkpancakes.md)
 - [Cottage Cheese Pancakes](cottagecheesepancakes.md)
 - [Belgian Waffes](belgianwaffles.md)
-- [
+- [Crepes](crepes.md)
+- [Challah French Toast with Cinnamon Sugar Glaze[(glazedfrenchtoast.md)
+
+## Muffins
+- [Banana Chocolate Muffins](bananachocolatemuffins.md)
+- [Pumpkin Muffins[(pumpkinmuffins.md)
+- [Cinnamon Apple Muffins](cinnamonapplemuffins.md)
 
 
