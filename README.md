@@ -26,4 +26,14 @@ This is a collection of recipes i like, compiled from various sources, with my o
 - [Cheddar Biscuits](cheddarbiscuits.md)
 - [Indianish Nachos](indianishnachos.md)
 
+## Sauces
+- [Cilantro Sauce for Salmon](salmoncilantrosauce.md)
+- [Chutney for Chaat](chutney.md)
+- [Tamarind Sauce](tamarind.md)
+
+## Breakfast
+- [Granola](granola.md)
+- [Buttermilk Pancakes](buttermilkpancakes.md)
+- [
+
 
