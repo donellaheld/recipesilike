@@ -20,6 +20,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Pasta with Creamy Pumpkin Sauce](pumpkinsaucepasta.md)
 - [Carnitas](carnitas.md)
 - [Beer Braised Chicken](beerbraisedchicken.md)
+- [Braised Chicken with Carrots and Lemons](lemonbraisedchicken.md)
 
 ## Sides
 - [Chapatis](chapatis.md)
@@ -44,6 +45,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Banana Chocolate Muffins](bananachocolatemuffins.md)
 - [Pumpkin Muffins](pumpkinmuffins.md)
 - [Cinnamon Apple Muffins](cinnamonapplemuffins.md)
+- [Pumpkin Chocolate Chip Muffins](pumpkinchochipmuffins.md)
 
 ## Desserts
 - [Bread Pudding](breadpudding.md)
