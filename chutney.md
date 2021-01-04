@@ -1,4 +1,4 @@
-### Chutney for chaat
+## Chutney for chaat
 <https://cooking.nytimes.com/recipes/1021356-cilantro-mint-chutney>
 
 ### INGREDIENTS
