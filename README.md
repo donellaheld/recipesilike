@@ -56,5 +56,10 @@ This is a collection of recipes I like, compiled from various sources, with my a
 ### Frostings
 - [Chocolate Buttercream](chocolatebuttercream.md)
 
+### Cookies
+- [Brown Butter Cardamom Cookies](brownbuttercardamom.md)
+- [Peanut Butter Cookies](peanutbuttercookies.md)
+
+
 
 
