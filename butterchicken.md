@@ -13,7 +13,7 @@
 - 1 teaspoon Garam Masala
 - 1 teaspoon Ground Cumin
 - 1 pound Boneless Skinless Chicken Thighs (or use breast, bone-in, or whatever works for you. If frozen, add 1-2 minutes to total time)
-####To finish
+#### To finish
 - 4 ounces butter cut into cubes (use coconut oil if dairy free)
 - 4 ounces heavy cream (use full-fat coconut milk if dairy free)
 - 1 teaspoon Garam Masala
