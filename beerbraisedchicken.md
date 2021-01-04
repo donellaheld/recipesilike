@@ -1,7 +1,5 @@
 ## Beer Braised Chicken
 
-<https://cooking.nytimes.com/recipes/1017108-cal-peternells-braised-chicken-legs>
-
 ![Beer Braised Chicken](/images/beerbraisedchicken.jpg)
 
 ## INGREDIENTS
@@ -30,3 +28,5 @@
 Tried a non-alcoholic beer, which was less bitter but still flavourful. 
 I finished cooking the chicken on the stovetop instead of in the oven. 
 Forgot to dredge the chicken in flour so added a tablespoon and a half of flour with the garlic, thyme and bay leaf. Not sure I tasted a difference this way. 
+
+<https://cooking.nytimes.com/recipes/1017108-cal-peternells-braised-chicken-legs>
