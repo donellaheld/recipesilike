@@ -26,4 +26,4 @@
 
 *Notes
 Do NOT overfill your cupcake liners or your cupcakes will sink in on themselves after baking. If you have excess batter, either discard it or make additional cupcakes but overfilling your liners is one of the surest ways to ruin your cupcakes.
-To make this as a cake, lightly but thoroughly grease and flour 2 8" cake pans, divide the batter evenly between the pans and then bake on 350 for 25-35 minutes (check with toothpick at 25 minutes)
+To make this as a cake, lightly but thoroughly grease and flour 2 8" cake pans, divide the batter evenly between the pans and then bake on 350 for 25-35 minutes (check with toothpick at 25 minutes)*
