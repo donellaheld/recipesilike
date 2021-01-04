@@ -52,6 +52,8 @@ This is a collection of recipes I like, compiled from various sources, with my a
 
 ### Cake/Cupcakes 
 - [Chocolate Cake/Cupcakes](chocolatecupcakes.md)
+- [Made in the Pan Chocolate Cake (Vegan)](veganchoccake.md)
+- [Banana Chocolate Chip Snack Cake](bananachocchipcake.md)
 
 ### Frostings
 - [Chocolate Buttercream](chocolatebuttercream.md)
@@ -59,6 +61,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 ### Cookies
 - [Brown Butter Cardamom Cookies](brownbuttercardamom.md)
 - [Peanut Butter Cookies](peanutbuttercookies.md)
+- [Apple Cookies](applecookies.md)
 
 
 
