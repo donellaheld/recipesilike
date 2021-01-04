@@ -38,7 +38,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Cottage Cheese Pancakes](cottagecheesepancakes.md)
 - [Belgian Waffes](belgianwaffles.md)
 - [Crepes](crepes.md)
-- [Challah French Toast with Cinnamon Sugar Glaze[(glazedfrenchtoast.md)
+- [Challah French Toast with Cinnamon Sugar Glaze](glazedfrenchtoast.md)
 
 ## Muffins
 - [Banana Chocolate Muffins](bananachocolatemuffins.md)
