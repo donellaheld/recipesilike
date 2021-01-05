@@ -3,8 +3,8 @@
 
 ### Ingredients
 - 2 cups whole wheat flour
-- 2 teaspoon salt
 - 1 cup room temperature water
+- 1 teaspoon salt
 
 ### Directions
 - Put flour in a bowl. Add water and mix with a spoon. When there is no more water visible, stop mixing. Cover the bowl and let it rest for 30 minutes.
