@@ -43,3 +43,5 @@
 9. Just before serving, top each cookie with lemon curd, then top with ample chunks of meringue, pressing them into the curd. 
 
 *Note: The meringue will keep in a cool, dry place for a few days, and the cookies can be kept at room temperature for about 3 days. But once you top the cookies, they’re best eaten soon after.*
+
+![Lemon Meringue Cookies](/images/lemonmeringuecookies.jpg)
