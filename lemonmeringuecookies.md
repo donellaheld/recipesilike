@@ -19,7 +19,7 @@
 - 2 large egg yolks, at room temperature
 - 2 teaspoons pure vanilla extract
 - 2 cups plus 2 tablespoons/270 grams all-purpose flour
- - About 1/3 cup/80 grams store-bought or homemade lemon curd
+ - About 1/3 cup/80 grams store-bought or homemade [lemon curd](lemoncurd.md)
  
 ### PREPARATION
 #### Make the meringue: 
