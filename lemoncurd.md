@@ -4,8 +4,8 @@
 
 ### INGREDIENTS
 - 1 ¼ cups (250 grams) sugar
-- 4 large eggs *[I used 3 eggs + 1 egg white leftover from the lemon meringue cookie shortbread]*
-- 1 tablespoon light corn syrup *[I omitted this]*
+- 4 large eggs *(I used 3 eggs + 1 egg white leftover from the [lemon meringue cookie](lemonmeringuecookies.md) shortbread)*
+- 1 tablespoon light corn syrup *(I omitted this)*
 - About 3/4 cup (180 milliliters) freshly squeezed lemon juice (from 4 to 6 lemons)
 - 1 stick (8 tablespoons; 4 ounces; 113 grams) unsalted butter, cut into chunks
 
