@@ -21,7 +21,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Carnitas](carnitas.md)
 - [Beer Braised Chicken](beerbraisedchicken.md)
 - [Braised Chicken with Carrots and Lemons](lemonbraisedchicken.md)
-- [Chimichurri Chicken](chimichurrichicken.md)
+- [Chimichurri Chicken](ChimichurriChicken.md)
 
 ## Sides
 - [Chapatis](chapatis.md)
