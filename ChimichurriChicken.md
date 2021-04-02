@@ -7,10 +7,10 @@
 - 3 garlic cloves, peeled
 - 1 ½ teaspoons kosher salt
 - 1 cup parsley leaves and stems
-- ½ cup fresh oregano leaves
+- 1 cup fresh cilantro leaves
 - ½ teaspoon red-pepper flakes
 - ½ teaspoon black pepper
-- 3 tablespoons red-wine vinegar
+- 2 tablespoons red-wine vinegar
 - ½ cup extra-virgin olive oil
 
 #### FOR THE CHICKEN:
