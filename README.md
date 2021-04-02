@@ -54,6 +54,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Hot Cross Buns](hotcrossbuns.md)
 - [Chocolate Toffee Matzo Crunch](matzocrunch.md)
 - [Lemon Meringue Cookies](lemonmeringuecookies.md)
+- [Fudgy Brownies](Fudgybrownies.md)
 
 ### Cake/Cupcakes 
 - [Chocolate Cake/Cupcakes](chocolatecupcakes.md)
