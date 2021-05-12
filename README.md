@@ -57,7 +57,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Fudgy Brownies](Fudgybrownies.md)
 
 ### Cake/Cupcakes 
-- [Chocolate Cake/Cupcakes](chocolatecupcakes.md)
+- [Chocolate Cake/Cupcakes](chocolatecupcake.md)
 - [Made in the Pan Chocolate Cake (Vegan)](veganchoccake.md)
 - [Banana Chocolate Chip Snack Cake](bananachocchipcake.md)
 
