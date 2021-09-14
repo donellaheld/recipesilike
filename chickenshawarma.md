@@ -28,4 +28,4 @@
 
 - Remove from the oven, allow to rest 2 minutes, then slice into bits. (To make the chicken even more crisp, set a large pan over high heat, add a tablespoon of olive oil to the pan, then the sliced chicken, and sauté until everything curls tight in the heat.) Scatter the parsley over the top and serve with tomatoes, cucumbers, pita, white sauce, hot sauce, olives, fried eggplant, feta, rice — really anything you desire.
 
-*White sauce = 1 cup plain yogurt, scant 1/4 c. mayo, 1/2 lemon juiced + lemon zest, basil/parsley/zatar/sumac/minced garlic. Chill for 4-5 hours.*
+*White sauce = 1 cup plain yogurt, scant 1/4 c. mayo, 1/2 lemon juiced + lemon zest, 2 sprigs parsley, minced garlic*
