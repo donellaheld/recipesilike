@@ -2,7 +2,7 @@
 
 <https://cooking.nytimes.com/recipes/1017161-oven-roasted-chicken-shawarma>
 
-*For our family if 4 I halved the below recipe and had leftovers for lunch*
+*For our family of 4 I halved the below recipe and had leftovers for lunch*
 
 ### INGREDIENTS
 - 2 lemons, juiced
