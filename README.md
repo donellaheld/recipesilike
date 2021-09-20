@@ -23,7 +23,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Braised Chicken with Carrots and Lemons](lemonbraisedchicken.md)
 - [Chimichurri Chicken](ChimichurriChicken.md)
 - [Green Pepper Chicken Curry](greenpepperchickencurry.md)
-- 
+- [Chicken Shawarma](chickenshawarma.md)
 
 ## Sides
 - [Chapatis](chapatis.md)
