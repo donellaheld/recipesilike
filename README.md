@@ -57,6 +57,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Chocolate Toffee Matzo Crunch](matzocrunch.md)
 - [Lemon Meringue Cookies](lemonmeringuecookies.md)
 - [Fudgy Brownies](Fudgybrownies.md)
+- [Coconut Stuffing (for Crepes)](coconutstuffing.md)
 
 ### Cake/Cupcakes 
 - [Chocolate Cake/Cupcakes](chocolatecupcake.md)
