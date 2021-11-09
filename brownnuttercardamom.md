@@ -1,6 +1,6 @@
 ## Browned Butter Cardamom Cookies
 
-*I accidentally halved the flour in these once and I think I liked them better*
+*I accidentally halved the flour in these once and I think I liked them better but did it with the full recipe and liked that version too*
 
 <https://www.landolakes.com/recipe/16741/browned-butter-cardamom-cookies/>
 
@@ -20,3 +20,5 @@
 - Combine cooled browned butter and sugar in bowl; beat at medium speed until well mixed. Add egg yolk, vanilla and cardamom; continue beating until well mixed. Beat at low speed, gradually adding flour, until mixture is no longer crumbly and forms dough.
 - Shape dough into 1-inch balls. Place 1 inch apart onto ungreased cookie sheets. Bake 10-12 minutes or until cookies puff and start to turn light golden brown. Cookies will have cracks in them.
 - Immediately remove from cookie sheets. Cool 1 minute. Roll cookies in powdered sugar while warm and again when completely cooled. Store between sheets of waxed paper in loosely covered container.
+
+*To turn these into rose water flavoured cookies, replace the vanilla with rose water. I used 1.5 Tbsps, which was too much. Next time try 1 Tbsp.*
