@@ -68,6 +68,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Chocolate Buttercream](chocolatebuttercream.md)
 
 ### Cookies
+- [Jason's Chocolate Chip Cookies](jasonschocolatechipcookies.md)
 - [Brown Butter Cardamom Cookies](brownnuttercardamom.md)
 - [Peanut Butter Cookies](peanutbuttercookies.md)
 - [Apple Cookies](applecookies.md)
