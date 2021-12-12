@@ -5,10 +5,10 @@
 - 1 cup Butter (melted in microwave)
 - 1-1/2 cups Brown Sugar
 - 2 Eggs
+- 1/2 teaspoon Vanilla
 - 3 cups Flour
 - 1 teaspoon Baking Powder
 - 1/2 teaspoon Baking Soda
-- 1/2 teaspoon Vanilla
 - pinch of salt
 
 #### Method
