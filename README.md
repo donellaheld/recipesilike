@@ -58,6 +58,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Lemon Meringue Cookies](lemonmeringuecookies.md)
 - [Fudgy Brownies](Fudgybrownies.md)
 - [Coconut Stuffing (for Crepes)](coconutstuffing.md)
+- [Temagami Blueberry Kuchen[.(blueberrycake.md)
 
 ### Cake/Cupcakes 
 - [Chocolate Cake/Cupcakes](chocolatecupcake.md)
