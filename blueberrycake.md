@@ -1,4 +1,5 @@
-### Blueberry Cake
+### Temagami Blueberry Kuchen
+* From Barb via Cooking with Gran
 
 #### Ingredients
 ##### Pastry
