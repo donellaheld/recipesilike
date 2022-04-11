@@ -2,7 +2,7 @@
 
 <https://cafedelites.com/wprm_print/48971>
 
-*I bake this in a 9 x 13 pan for 20 minutes, turning the pan around once bc my oven is uneven, and cool for 15 mins in the pan before transferring to a wire rack to cool to room temperature. 
+*I bake this in a 9 x 13 pan for 20 minutes, turning the pan around once bc my oven is uneven, and cool for 15 mins in the pan before transferring to a wire rack to cool to room temperature.* 
 
 ### Ingredients
 - 1 cup 8oz/240g unsalted butter, melted and cooled
