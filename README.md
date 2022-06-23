@@ -11,21 +11,25 @@ This is a collection of recipes I like, compiled from various sources, with my a
 * [Instant Pot Lamb Saag](lambsaag.md)
 
 ## Savoury Mains
-- [Seekh Kebabs](seekhkebab.md)
+
+### Chicken
 - [Mangalorean Chicken Curry (with coconut)](mangloreanchicken.md)
 - [Grilled Sesame Lime Chicken Breasts](sesamelimechicken.md)
 - [Chicken Paprikash](chickenpaprikash.md)
-- [Garlic Butter Pork Tenderloin](porktenderloin.md)
-- [Easy Puff Pastry Bacon and Cheese Quiche](puffpastryquiche.md)
-- [Crisp Gnocchi With Brussels Sprouts and Brown Butter](gnocciwithbrusselsprouts.md)
-- [Pasta with Creamy Pumpkin Sauce](pumpkinsaucepasta.md)
-- [Carnitas](carnitas.md)
 - [Beer Braised Chicken](beerbraisedchicken.md)
 - [Braised Chicken with Carrots and Lemons](lemonbraisedchicken.md)
 - [Chimichurri Chicken](ChimichurriChicken.md)
 - [Green Pepper Chicken Curry](greenpepperchickencurry.md)
 - [Chicken Shawarma](chickenshawarma.md)
 - [Smoke Roasted Chicken Thighs with Paprika](smokeroastedchicken.md)
+
+### Not Chicken
+- [Seekh Kebabs](seekhkebab.md)
+- [Garlic Butter Pork Tenderloin](porktenderloin.md)
+- [Easy Puff Pastry Bacon and Cheese Quiche](puffpastryquiche.md)
+- [Crisp Gnocchi With Brussels Sprouts and Brown Butter](gnocciwithbrusselsprouts.md)
+- [Pasta with Creamy Pumpkin Sauce](pumpkinsaucepasta.md)
+- [Carnitas](carnitas.md)
 
 ## Sides
 - [Chapatis](chapatis.md)
