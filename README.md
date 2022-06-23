@@ -25,7 +25,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Chimichurri Chicken](ChimichurriChicken.md)
 - [Green Pepper Chicken Curry](greenpepperchickencurry.md)
 - [Chicken Shawarma](chickenshawarma.md)
-- [Smoke Roasted Chicken Things with Paprika](smokroastedchicken.md)
+- [Smoke Roasted Chicken Thighs with Paprika](smokeroastedchicken.md)
 
 ## Sides
 - [Chapatis](chapatis.md)
