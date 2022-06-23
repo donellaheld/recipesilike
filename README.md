@@ -8,6 +8,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 * [Instant Pot Butter Chicken](butterchicken.md)
 * [Instant Pot Smoky Chicken Tacos](smokeychicken.md)
 * [Instant Pot Lamb Shank](lambshank.md)
+* [Instant Pot Lamb Saag](lambsaag.md)
 
 ## Savoury Mains
 - [Seekh Kebabs](seekhkebab.md)
