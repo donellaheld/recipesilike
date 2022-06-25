@@ -76,6 +76,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 ### Cookies
 - [Jason's Chocolate Chip Cookies](jasonschocolatechipcookies.md)
 - [Lemon Meringue Cookies](lemonmeringuecookies.md)
+- [Pumpkin Chocolate Chip Cookies](pumpkinchocchip.md)
 - [Brown Butter Cardamom Cookies](brownnuttercardamom.md)
 - [Peanut Butter Cookies](peanutbuttercookies.md)
 - [Apple Cookies](applecookies.md)
