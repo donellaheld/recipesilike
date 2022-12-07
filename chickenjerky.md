@@ -1,5 +1,7 @@
 ## Vietnamese Chicken Jerky as taught by Lan (Sophie's Mum)
 
+<img src="/images/OanhandLan.jpg" width=30%> <img src="/images/Jerky.jpg" width=20%> <img src="/images/LearningtoMakeJerky.jpg" width=30%>
+
 ### Full Ingredients List:
 
 - Chicken breasts - 2 (should be about 1.5 lbs)
@@ -32,6 +34,8 @@
 - Flip the chicken over halfway through cooking stage (not including time to heat pot). Increase the heat to reduce the juice. 
 - When the chicken is cooked and while it's still hot, shred it into the size of children's fingers (thin and long) then make the paste
 
+<img src="/images/SteamingVeg.jpg" width=20%> <img src="/images/ReadytoSteam.jpg" width=30%> <img src="/images/ShreddingChicken.jpg" width=20%>
+
 #### For Marinating Chicken in Spice Paste
 
 ##### Chicken Juice Mixtrure for Spice Paste
@@ -47,6 +51,8 @@
 - Shallot - chop into thin rounds and then finely dice
 - Garlic - peel and finely dice
 - Lime kefir leaves - about 2/3 goes in the paste, make a pile and roll then thinly slice
+
+<img src="/images/PasteVeg.jpg" width=30%> <img src="/images/PastePrep.jpg" width=20%>
 
 ##### Stir fry spice paste
 
