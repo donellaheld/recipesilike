@@ -1,6 +1,7 @@
 ## Vietnamese Chicken Jerky as taught by Lan (Sophie's Mum)
 
 <img src="/images/OanhandLan.jpg" width=30%> <img src="/images/Jerky.jpg" width=20%> <img src="/images/LearningtoMakeJerky.jpg" width=30%>
+![Oanh and Lan](/images/OanhandLan.jpg) ![Jerky](/images/Jerky.jpg)
 
 ### Full Ingredients List:
 
