@@ -22,6 +22,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Green Pepper Chicken Curry](greenpepperchickencurry.md)
 - [Chicken Shawarma](chickenshawarma.md)
 - [Smoke Roasted Chicken Thighs with Paprika](smokeroastedchicken.md)
+- [Vietnamese Chicken Jerky](chickenjerky.md)
 
 ### Not Chicken
 - [Seekh Kebabs](seekhkebab.md)
