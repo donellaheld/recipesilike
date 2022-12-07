@@ -1,7 +1,6 @@
 ## Vietnamese Chicken Jerky as taught by Lan (Sophie's Mum)
 
-<img src="/images/OanhandLan.jpg" width=30%> <img src="/images/Jerky.jpg" width=20%> <img src="/images/LearningtoMakeJerky.jpg" width=30%>
-![Oanh and Lan](/images/OanhandLan.jpg) ![Jerky](/images/Jerky.jpg)
+![Oanh and Lan](/images/OanhandLan.jpg) ![Jerky](/images/Jerky.jpg) ![Learning to Make Jerky](/images/LearningtoMakeJerky.jpg)
 
 ### Full Ingredients List:
 
@@ -37,6 +36,8 @@
 
 <img src="/images/SteamingVeg.jpg" width=20%> <img src="/images/ReadytoSteam.jpg" width=30%> <img src="/images/ShreddingChicken.jpg" width=20%>
 
+![Steaming Veg](/images/SteamingVeg.jpg) ![Ready to Steam](/images/ReadytoSteam.jpg) ![Shredding chicken](/images/ShreddingChicken.jpg)
+
 #### For Marinating Chicken in Spice Paste
 
 ##### Chicken Juice Mixtrure for Spice Paste
@@ -54,6 +55,7 @@
 - Lime kefir leaves - about 2/3 goes in the paste, make a pile and roll then thinly slice
 
 <img src="/images/PasteVeg.jpg" width=30%> <img src="/images/PastePrep.jpg" width=20%>
+![Vegetables to go in the paste](/images/PasteVeg.jpg) ![Vegetables for Paste after prepping](/images/PastePrep.jpg)
 
 ##### Stir fry spice paste
 
