@@ -12,8 +12,8 @@ _Last time I accidentally changed the ratio of the spice mix by halving the salt
 - 1 tablespoon brown sugar 
 - 1/2 tablespoon chili powder
 - 1/2 tablespoon paprika
-- 1/2 tablespoon garlic powder
 - 1/2 tablespoon onion powder
+- 3 teaspoons/cloves diced garlic
 - 1 teaspoons dried thyme <-- maybe skip this next time
 
 ### Preparation
