@@ -21,7 +21,8 @@ _Last time I accidentally changed the ratio of the spice mix by halving the salt
 #### Overnight dry brining:
 - Put aluminium foil on a cookie sheet <-- cookie sheet was caked with stuff even with the aluminum foil. Try placing a sheet of parchment under the foil next time. 
 - Place a wire rack on the aluminum foil
-- Place the brisket on top of the rackApply yellow mustard to the brisket as a binder
+- Place the brisket on top of the rack
+- Apply yellow mustard to the brisket as a binder
 - Mix the remaining spices together and apply to the brisket
 - Place uncovered in fridge overnight
 
