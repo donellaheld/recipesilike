@@ -31,6 +31,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Crisp Gnocchi With Brussels Sprouts and Brown Butter](gnocciwithbrusselsprouts.md)
 - [Pasta with Creamy Pumpkin Sauce](pumpkinsaucepasta.md)
 - [Carnitas](carnitas.md)
+- [Texas Style Oven Cooked Brisket](brisket.md)
 
 ## Sides
 - [Chapatis](chapatis.md)
