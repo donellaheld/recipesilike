@@ -1,7 +1,20 @@
 ## Chocolate Cupcakes/Cake with Chocolate Frosting
 <https://sugarspunrun.com/easy-chocolate-cupcakes/>
 
-### Ingredients
+### 6 Inch Cake Ingredients 
+- 1 cup granulated sugar (200 g? Originally recorded as 110 g, but I don't think that's right)
+- 125 g all-purpose flour
+- 30 g natural unsweetened cocoa powder
+- 1 tsp/4g baking powder
+- 3/4 tsp/4g baking soda
+- 1/2 tsp/3.4 g salt
+- 1/3 cup canola oil (vegetable oil would also be fine)
+- 1/2 cup milk
+- 1 eggs lightly beaten (preferably room temperature)
+- 1 tsp vanilla extract
+- 1/2 cup hot water (or hot coffee or 1 tsp instant coffee dissolved into 1 cup hot water)
+
+### 8 Inch Cake Ingredients 
 - 2 cups granulated sugar
 - 1 3/4 cup + 2 Tbsp all-purpose flour
 - 3/4 cups natural unsweetened cocoa powder
@@ -26,4 +39,4 @@
 
 *Notes
 Do NOT overfill your cupcake liners or your cupcakes will sink in on themselves after baking. If you have excess batter, either discard it or make additional cupcakes but overfilling your liners is one of the surest ways to ruin your cupcakes.
-To make this as a cake, lightly but thoroughly grease and flour 2 8" cake pans, divide the batter evenly between the pans and then bake on 350 for 25-35 minutes (check with toothpick at 25 minutes)*
+To make this as a 6 inch cake, lightly but thoroughly grease and flour 2 6" cake pans, divide the batter evenly between the pans and then bake on 350 for 22 minutes. To make this as an 8 inch cake, lightly but thoroughly grease and flour 2 8" cake pans, divide the batter evenly between the pans and then bake on 350 for 25-35 minutes (check with toothpick at 25 minutes)*
