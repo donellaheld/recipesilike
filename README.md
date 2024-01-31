@@ -11,10 +11,6 @@ This is a collection of recipes I like, compiled from various sources, with my a
 * [Instant Pot Lamb Saag](lambsaag.md)
 * [Instant Pot Moong Daal](ipmoongdaal.md)
 
-## Sous Vide Insructions
-* [Sous Vide Chicken Breasts](svchickenbreast.md)
-* [Sous Vide Salmon](svsalmon.md)
-
 ## Savoury Mains
 
 ### Chicken
@@ -92,6 +88,15 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Hot Toddy](hottoddy.md)
 - [Elderflower Rose Gimlet](elderflowerrosegimlet.md)
 - [Penicillin](penicillin.md)
+
+## Sous Vide Insructions
+* [Sous Vide Chicken Breasts](svchickenbreast.md)
+* [Sous Vide Salmon](svsalmon.md)
+
+## Rice Cooker Instructions
+* [Rice Cooker Wild Rice](rcwildrice.md)
+* [Rice Cooker Farro](rcfarro.md)
+* [Rice Cooker Quinoa](rcquinoa.md)
 
 
 
