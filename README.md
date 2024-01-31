@@ -11,6 +11,10 @@ This is a collection of recipes I like, compiled from various sources, with my a
 * [Instant Pot Lamb Saag](lambsaag.md)
 * [Instant Pot Moong Daal](ipmoongdaal.md)
 
+## Sous Vide Insructions
+* [Sous Vide Chicken Breasts](svchickenbreast.md)
+* [Sous Vide Salmon](svsalmon.md)
+
 ## Savoury Mains
 
 ### Chicken
