@@ -1,6 +1,6 @@
 ## Peppercorn Sauce 
 
-https://cooking.nytimes.com/recipes/1017319-simple-steak-au-poivre
+<https://cooking.nytimes.com/recipes/1017319-simple-steak-au-poivre>
 
 ### Ingredients:
 
