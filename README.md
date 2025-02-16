@@ -44,6 +44,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Cilantro Sauce for Salmon](salmoncilantrosauce.md)
 - [Chutney for Chaat](chutney.md)
 - [Tamarind Sauce](tamarind.md)
+- [Peppercorn Sauce].(peppercornsauce.md)
 
 ## Breakfast
 - [Granola](granola.md)
