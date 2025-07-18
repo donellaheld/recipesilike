@@ -35,7 +35,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 - [Texas Style Oven Cooked Brisket](brisket.md)
 
 ### Soups
-- [Gazpatcho](gazpatcho.md)
+- [Gazpatcho](gazpacho.md)
 
 ## Sides
 - [Chapatis](chapatis.md)
