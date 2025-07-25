@@ -36,6 +36,7 @@ This is a collection of recipes I like, compiled from various sources, with my a
 
 ### Soups
 - [Gazpatcho](gazpacho.md)
+- [Corn and Coconut Soup](coconutcornsoup.md)
 
 ## Sides
 - [Chapatis](chapatis.md)
