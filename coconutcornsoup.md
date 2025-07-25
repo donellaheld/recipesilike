@@ -3,7 +3,7 @@
 <https://cooking.nytimes.com/recipes/1019451-spicy-corn-and-coconut-soup>
 
 ### Ingredients
-- 5ears yellow or bicolor corn (or 5 cups frozen corn kernels)
+- 5 ears yellow or bicolor corn (or 5 cups frozen corn kernels)
 - 2 tablespoons olive oil
 - 2 shallots, thinly sliced into rings
 - 3 garlic cloves, minced <-- I used 2
