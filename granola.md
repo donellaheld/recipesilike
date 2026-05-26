@@ -7,7 +7,7 @@
 - ½ cup chopped pistas
 - *optional: ½ cup pumpkin seeds*
 - ½ cup sunflower seeds
-- ⅓ scant cup brown sugar
+- 1/4 scant cup brown sugar
 - 1 tbsp vanilla
 - ⅔ cup vegetable oil
 - ⅓ cup honey
